@@ -1,19 +1,11 @@
 <p><h1 align="center">190.影院电影管理系统</h1></p>
 
-<p> 获取sql文件 QQ: 386869957 QQ群: 377586148 </p>
-<p> [更多源码项目: 从戎源码网](https://armycodes.com/) </p>
-
-## 简介
-
-> 本代码来源于网络,仅供学习参考使用!
->
-> 提供1.远程部署/2.修改代码/3.设计文档指导/4.框架代码讲解等服务
-> 
-> api 目录下为Spring boot项目代码
-> vue-admin 目录下为网站管理后台代码 http://localhost:8080/ admin1 123456
-> vue-app 目录下为网站前台代码  http://localhost:8081/ 11111111  1111111
-> vue-worker 目录下为网站客服代码  http://localhost:8082/  lmk123  123456
->
+- <b>完整代码获取地址：从戎源码网 ([https://armycodes.com/](https://armycodes.com/))</b>
+- <b>技术探讨、资料分享，请加QQ群：692619798</b> 
+- <b>作者微信：19941326836  QQ：952045282</b> 
+- <b>承接计算机毕业设计、Java毕业设计、Python毕业设计、深度学习、机器学习</b>
+- <b>选题+开题报告+任务书+程序定制+安装调试+论文+答辩ppt 一条龙服务</b>
+- <b>所有选题地址 ([https://github.com/YuLin-Coder/AllProjectCatalog](https://github.com/YuLin-Coder/AllProjectCatalog)) </b>
 
 ## 项目介绍
 基于ssm+vue2的影院电影管理系统：前端 vue、elementui，后端 maven、springboot、springmvc、spring、mybatis；角色分为管理员、用户、客服；集成电影在线选座、在线购票，在线提交订单等功能于一体的系统。
